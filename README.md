@@ -15,11 +15,11 @@ https://github.com/Miguel-Marsico/PetVive-System/assets/158609724/0d9e5189-fbab-
 
 ## 📗 About
 
-**PetVive** is a system designed with the purpose of improving Full Stack development skills in a web application. This platform was developed with the aim of providing veterinarians with a powerful tool for managing their patients' information efficiently and effectively.
+**PetVive** is a system designed with the purpose of improving Full Stack development skills in a **Flutter** application. This platform was developed with the aim of providing veterinarians with a powerful tool for managing their patients' information efficiently and effectively.
 
 ## 🔧 Tools
 
-### 💻 **Website** ( Flutter )
+### 💻 **APP** ( Flutter )
 
 ### 🔄 **API** ([Pyhton](https://www.python.org))
 
@@ -65,7 +65,7 @@ Stores information about users, including username and password (stored as a pas
 
 ### The project is divided into **2** parts:
 
- - 🌐 **Frontend** (WebSite HTML, CSS, JavaScript)
+ - 🌐 **Frontend** (Flutter)
  - ⚙️ **Backend** (Python API, PostgreSQL DataBase)
  
  💡 The backend must be running for the frontend to work.
